@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+}
+
+.menu{
+    position: relative;
+    float: right;
+    width: 350px;
+    margin-right: 20px;
+}
+
+.fotos{
+    margin-right: 20px;
+    width: 360px;
+    height: auto;
+    float: left;
+    position: relative;
+}
+
+.galeria{
+    width: 1240px;
+    height: 250px;
+    margin: 0 auto;
+    position: relative;
+
+.about,.contact, footer{
+    text-align: center;
+    position: relative;
+    float: left;
+    width: 100%;
+
+}
+
+footer{
+    text-align: center;
+    clear: both;
+    background-color: beige;
+}
+
